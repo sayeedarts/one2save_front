@@ -1,7 +1,7 @@
 {
   "name": "oneplace2save",
   "engines": {
-    "node": "16.x"
+    "node": "20.x"
   },
   "private": true,
   "scripts": {

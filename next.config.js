@@ -6,6 +6,6 @@ module.exports = {
     api_server: '',
   },
   images: {
-    domains: ['localhost:3000', 'oneplace2save.co.uk', '138.68.149.216', 'rpvtechnologies.com', 'i.ibb.co'],
+    domains: ['localhost:3000', 'oneplace2save.co.uk', '143.110.160.49', 'rpvtechnologies.com', 'i.ibb.co'],
   }
 }

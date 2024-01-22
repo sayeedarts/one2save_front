@@ -16,4 +16,4 @@ module.exports = {
         ],
     },
     exclude: ["/user"],
-}
+}npm start
